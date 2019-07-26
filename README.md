@@ -15,7 +15,7 @@ Toolbox untuk pemodelan genangan tsunami (tsunami inundation) di ArcGIS Desktop 
 	
     ![](pic/pic3.png)
     
-6. Hasil seperti ini
+6. Hasil modeling untuk tinggi gelombang maksimal 20 meter seperti ini
 	
     ![](pic/pic4.png)
 
