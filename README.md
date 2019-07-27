@@ -18,6 +18,15 @@ Toolbox untuk pemodelan genangan tsunami (tsunami inundation) di ArcGIS Desktop 
 6. Hasil modeling untuk tinggi gelombang maksimal 20 meter seperti ini
 	
     ![](pic/pic4.png)
+	
+	
+##
+Catatan:
+1. Pastikan semua data input menggunakan sistem koordinat terproyeksi (_Projected Coordinate System_), misalnya UTM
+2. Jika proses bermasalah dengan isu _extent_ atau hasil akhirnya terpotong, ulangi prosesnya dengan mengatur _**Processing Extent**_ pilih _**Same as display**_ dari _**Environments...**_
+
+	![](pic/pic5.png)
+	
 
 ##
 Data sampel: [unduh di sini](https://www.dropbox.com/s/agoia1oj2l4jbn1/Data.zip?dl=0)
