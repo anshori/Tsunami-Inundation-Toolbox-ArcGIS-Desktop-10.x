@@ -31,6 +31,8 @@ Catatan:
 ##
 Data sampel: [unduh di sini](https://www.dropbox.com/s/agoia1oj2l4jbn1/Data.zip?dl=0)
 
+##
+Tutorial video: [Youtube](https://youtu.be/xhSXq2z1jtc)
 
 ##
 Literatur:
