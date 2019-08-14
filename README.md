@@ -27,6 +27,7 @@ Catatan:
 
 	![](pic/pic5.png)
 	
+3. Jika Anda menggunakan ArcGIS Desktop 10.1 - 10.4, gunakan **TsunamiInundation_10.1-10.2.tbx**
 
 ##
 Data sampel: [unduh di sini](https://www.dropbox.com/s/agoia1oj2l4jbn1/Data.zip?dl=0)
